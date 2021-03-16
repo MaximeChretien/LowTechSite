@@ -1,0 +1,93 @@
+html {
+	background-color: #EFE7BC;
+	font-size: 22px;
+}
+
+header {
+	width: 80%;
+	margin: auto;
+	margin-bottom: 2rem;
+	border-bottom: solid black 2px;
+}
+
+header a {
+	color: black;
+	text-decoration: none;
+	border-left: solid black 2px;
+	border-bottom: solid black 2px;
+	padding: 0.2rem;
+	margin: 1rem;
+}
+
+header a:hover {
+	border: none;
+	border-right: solid black 2px;
+	border-top: solid black 2px;
+}
+
+.content {
+	max-width: 38rem;
+	width: 80%;
+	margin: auto;
+}
+
+.content a {
+	color: #5355BE;
+}
+
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+	font-weight: normal;
+}
+
+.content h1 {
+	font-size: 2rem;
+	font-weight: bold;
+}
+
+.content h2 {
+	font-size: 1.5rem;
+}
+
+.content h3 {
+	font-size: 1.25rem;
+}
+
+.content img {
+	width: 95%;
+	max-width: 95%;
+	mix-blend-mode: multiply;
+}
+
+.content pre {
+	font-size: 0.75rem;
+}
+
+.content table,
+.content th,
+.content td {
+	border: 1px solid black;
+}
+
+footer {
+	width: 80%;
+	margin: auto;
+	margin-top: 2rem;
+	border-top: solid black 2px;
+}
+
+footer a {
+	color: #5355BE;
+}
+
+footer p {
+	text-align: center;
+}
+
+footer #contact {
+	text-align: right;
+}
