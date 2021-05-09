@@ -1,7 +1,7 @@
 # LowTechSite
 
 This is a python script that helps creating lightweight static websites from Markdown files.  
-It has been built for the [Sustainable-Blog](https://sustainable-blog.ddns.net) project, a website that aims to be solar powered.
+It has been built for the my [personal website](https://mixlenain.ddns.net), a website that aims to be solar powered.
 
 ## Main features
  - Convert Markdown to HTML
